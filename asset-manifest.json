@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/timesolutions/static/css/main.95f64b99.css",
-    "main.js": "/timesolutions/static/js/main.f462e6bb.js",
+    "main.js": "/timesolutions/static/js/main.77c17b93.js",
     "static/js/787.8c2ca9ad.chunk.js": "/timesolutions/static/js/787.8c2ca9ad.chunk.js",
     "static/media/Illustration.png": "/timesolutions/static/media/Illustration.1166db5825e6a02387b7.png",
     "index.html": "/timesolutions/index.html",
     "main.95f64b99.css.map": "/timesolutions/static/css/main.95f64b99.css.map",
-    "main.f462e6bb.js.map": "/timesolutions/static/js/main.f462e6bb.js.map",
+    "main.77c17b93.js.map": "/timesolutions/static/js/main.77c17b93.js.map",
     "787.8c2ca9ad.chunk.js.map": "/timesolutions/static/js/787.8c2ca9ad.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.95f64b99.css",
-    "static/js/main.f462e6bb.js"
+    "static/js/main.77c17b93.js"
   ]
 }
