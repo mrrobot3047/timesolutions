@@ -1,6 +1,6 @@
 {
   "homepage":"https://mrrobot3047.github.io/timesolutions",
-  "name": "timesolutions-app",
+  "name":"timesolutions-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
